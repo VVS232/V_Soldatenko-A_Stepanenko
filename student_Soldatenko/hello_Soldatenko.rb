@@ -1,3 +1,2 @@
 some changes
-
-some new lines
+making some changes
